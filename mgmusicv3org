@@ -1,0 +1,69 @@
+return {
+	Shuffle = true, -- Will shuffle the playlist
+	
+	MarketplaceNames = true, -- Will automatically grab the name of the track from roblox marketplace service
+	
+	Songs = {
+		{
+			ID = "118212796617554",
+			Name = nil, -- Set to nil if MarketplaceNames is enabled
+			PlaybackSpeed = 1,
+			Volume = 0.2
+		},
+		{
+			ID = "9048580516",
+			Name = nil, -- Set to nil if MarketplaceNames is enabled
+			PlaybackSpeed = 1,
+			Volume = 0.2
+		},
+		{
+			ID = "7029017448",
+			Name = nil, -- Set to nil if MarketplaceNames is enabled
+			PlaybackSpeed = 1,
+			Volume = 0.2
+		},
+		{
+			ID = "7028932563",
+			Name = nil, -- Set to nil if MarketplaceNames is enabled
+			PlaybackSpeed = 1,
+			Volume = 0.2
+		},
+		{
+			ID = "5410084188",
+			Name = nil, -- Set to nil if MarketplaceNames is enabled
+			PlaybackSpeed = 1,
+			Volume = 0.2
+		},
+		{
+			ID = "1841647093",
+			Name = nil, -- Set to nil if MarketplaceNames is enabled
+			PlaybackSpeed = 1,
+			Volume = 0.2
+		},
+		{
+			ID = "9245561450",
+			Name = nil, -- Set to nil if MarketplaceNames is enabled
+			PlaybackSpeed = 1,
+			Volume = 0.2
+		},
+		{
+			ID = "80491449262790",
+			Name = nil, -- Set to nil if MarketplaceNames is enabled
+			PlaybackSpeed = 1,
+			Volume = 0.2
+		},
+		{
+			ID = "5410086218",
+			Name = nil, -- Set to nil if MarketplaceNames is enabled
+			PlaybackSpeed = 1,
+			Volume = 0.2
+		},
+		{
+			ID = "1839856701",
+			Name = nil, -- Set to nil if MarketplaceNames is enabled
+			PlaybackSpeed = 1,
+			Volume = 0.2
+		},
+	}
+	
+}
